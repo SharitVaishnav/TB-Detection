@@ -63,10 +63,10 @@ A curated, balanced subset from the open-source CXR TB dataset, preprocessed as 
 
 ## 🧑‍🔬 Authors
 
-- Prajwal Prasad (BT22CSA043)
-- Sharit Vaishnav (BT22CSA042)
-- Sahil Bagade (BT22CSA033)
-- Harshit Ranjan (BT22CSA029)
+- Prajwal Prasad
+- Sharit Vaishnav
+- Sahil Bagade
+- Harshit Ranjan 
 
 Supervised by **Dr. Snehal Shinde**  
 Indian Institute of Information Technology, Nagpur
@@ -82,13 +82,7 @@ Indian Institute of Information Technology, Nagpur
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, share, and improve!
-
----
-
 ## 📬 Contact
 
-Feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues) or connect with the authors for collaborations.
+Feel free to reach out via [GitHub Issues](https://github.com/SharitVaishnav/TB-Detection/issues) or connect with the authors for collaborations.
 
