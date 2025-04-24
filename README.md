@@ -46,7 +46,7 @@ A curated, balanced subset from the open-source CXR TB dataset, preprocessed as 
 - **Grad-CAM:** Highlights regions influencing prediction by visualizing class-specific activation maps.
 - **LIME:** Perturbs image regions to determine local feature importance and decision boundary.
 
-<img src="docs/assets/gradcam_lime_example.png" alt="GradCAM and LIME Explanation" width="600"/>
+<img src="https://github.com/SharitVaishnav/TB-Detection/blob/main/GCAM-Lime/GradCAM.jpeg" alt="GradCAM and LIME Explanation" width="600"/>
 
 ---
 
